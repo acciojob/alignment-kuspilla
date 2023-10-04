@@ -1,1 +1,29 @@
 /*  your css code here. If applicable */
+h3{
+	text-align: center;
+}
+td{
+	border : 1px solid rgb(0,0,0);
+}
+#t12{
+	text-align: center;
+}
+#t13{
+	text-align: right
+}
+#t-image{
+	text-align: center
+}
+
+#green{
+	background-color: green;
+}
+#blue{
+	background-color: blue;
+}
+.middle{
+	width:100%;
+	margin-bottom:50px;
+}
+	
+}
